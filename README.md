@@ -21,9 +21,7 @@ In former exercise, I'v actualized visualizing python program, in this assignmen
 
 ![doublependulum](https://github.com/LuxAsteria/test3/blob/master/doublep.gif)
 
-##Second, another way to make 3D animation:
 
-![rotate](https://github.com/LuxAsteria/test3/blob/master/rotate_shuiying.gif)
 
 ####level 2: Poincaré section:
 
